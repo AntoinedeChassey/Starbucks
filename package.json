@@ -1,9 +1,9 @@
 {
   "name": "starbucks-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js interface for the private Starbucks API",
   "main": "index.js",
-  "author": "Nick Lee",
+  "author": "Antoine de Chassey",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.16.2",
@@ -14,6 +14,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TENDIGI/Starbucks.git"
+    "url": "https://github.com/AntoinedeChassey/Starbucks.git"
   }
 }
